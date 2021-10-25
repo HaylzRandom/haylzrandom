@@ -1,10 +1,10 @@
 ### Heyho! My name is Hayley 👋
 
-I'm a developer looking to move into the field of web development as part of a career change! 
+I'm a female developer looking to move into the field of web development as part of a career change! Always looking to learn new skills and most importantly, loving it!
 
 ## Skills
-- HTML5
-- CSS3
+- HTML5   
+- CSS3    
 - SCSS
 - JavaScript
 - React
@@ -19,10 +19,3 @@ I studied CS at University but more recently undertaking the following courses:
 - [50 Projects in 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/share/103Pv23@yST_77GqAIY7k98i-_vjCmaMu3n1hdvQ2EhYJEF6gPuTH2IuovVLBVj6iaGGiyx1/) - Completed!
   - [Certificate of completion](https://www.udemy.com/certificate/UC-95ab4929-779f-4782-b787-de77d03c876d/) 
 
-## Projects
-Some of the projects I have found most enjoyable to work on have been:
-
-- [E-Commerce Clothing Store](https://github.com/HaylzRandom/ecommerce-clothing-store)
-- Smart Brain Project - [Frontend](https://github.com/HaylzRandom/smart-brain-project) | [Backend](https://github.com/HaylzRandom/smart-brain-api)
-- [50 small projects built in HTML, CSS & JavaScript](https://github.com/HaylzRandom/50projects-html-css-js)
-- [Frontend Mentor Challenges](https://github.com/HaylzRandom/frontend-mentor-challenges) - Still ongoing!
