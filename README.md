@@ -33,12 +33,11 @@
 
 <!-- About Me -->
 
-### :woman-technologist: About Me
+### :woman_technologist: About Me
 
 Front-end developer enthusiast with a passion of all things web development!
 
-- :scotland: Born in Scotland and proud of it despite not living there for 10+
-  years!
+- :uk: Born in Scotland and proud of it despite not living there for 10+ years!
 - :seedling: Currently, I am learning TypeScript, Node.js and Figma
 - :beach_umbrella: When I'm not coding, you can find me either chilling with
   video games or baking up a storm :cupcake:!
@@ -84,7 +83,7 @@ Front-end developer enthusiast with a passion of all things web development!
 - [Learn Intermediate JavaScript](https://www.codecademy.com/profiles/haylzrandom/certificates/36ae898a1d1c8524815305b2d1d2ebab)
   (Completed :heavy_check_mark:)
 - [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) (WIP
-  :green_circle:)
+  :yellow_circle:)
 
 <!-- ZeroToMastery -->
 
@@ -95,9 +94,9 @@ Front-end developer enthusiast with a passion of all things web development!
 - [Complete React Developer in 2023(w/ Redux, Hooks, GraphQL): Zero to Mastery](https://drive.google.com/file/d/1mieDfkVjGMnZDb9CqHuLXZ7bKarhKmLF/view?usp=sharing)
   (Completed :heavy_check_mark:)
 - [Complete Web & Mobile Designer in 2023: UI/UX, Figma + more](https://zerotomastery.io/courses/learn-web-design/)
-  (WIP :green_circle:)
+  (WIP :yellow_circle:)
 - [Complete Node.js Developer in 2023: Zero to Mastery](https://zerotomastery.io/courses/learn-node-js/)
-  (WIP :green_circle:)
+  (WIP :yellow_circle:)
 
 <!-- Udemy -->
 
@@ -135,8 +134,6 @@ Front-end developer enthusiast with a passion of all things web development!
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-white?style=for-the-badge&logo=confluence&logoColor=237ff9)
-
-
 
 ### :abacus: Databases
 
