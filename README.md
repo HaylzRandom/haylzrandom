@@ -10,20 +10,20 @@
         <img src='https://img.shields.io/badge/haylzrandom.co.uk-6C327A?style=for-the-badge' style='grid-area:website;'>
     </a>
     <br>
-    <a>
+    <a href='https://www.freecodecamp.org/haylzrandom'>
         <!-- FreeCodeCamp Badge -->
         <img src='https://img.shields.io/badge/freeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white'>
     </a>
-    <a>
+    <a href='https://www.frontendmentor.io/profile/HaylzRandom'>
         <!-- Frontend Mentor Badge -->
         <img src='https://img.shields.io/badge/frontend mentor-8dceda?style=for-the-badge&logo=frontendmentor&logoColor=5769ae' >
     </a>
     <br>
-    <a>
+    <a href='https://www.linkedin.com/in/hayleymcc/'>
         <!-- LinkedIn Badge -->
         <img src='https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
     </a>
-    <a>
+    <a href='https://twitter.com/HaylzRandom'>
         <img src="https://img.shields.io/badge/Twitter-1a8cd8?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <br>
