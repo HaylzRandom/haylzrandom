@@ -41,7 +41,7 @@ Front-end developer enthusiast with a passion of all things web development!
 - :seedling: Currently, I am learning TypeScript, Node.js and Figma
 - :beach_umbrella: When I'm not coding, you can find me either chilling with
   video games or baking up a storm :cupcake:!
-- :envelope: You can reach me here: <hayley.mcc@gmail.com>
+- :envelope: You can reach me here: <haylzrandomdev@gmail.com>
 
 <br>
 
