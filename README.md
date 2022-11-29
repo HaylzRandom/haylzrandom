@@ -1,6 +1,6 @@
 <!-- Header -->
 <div id='header' align='center'>
-    <img src='./haylzpic.png' style='width:300px; height:300px;border-radius:50%;margin:25px'>
+    <img src='./haylzpic.png' style='width:300px; height:300px; border-radius:50%; margin:25px'>
     <h1>Heyho, I'm Hayley! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 <!-- Badges -->
@@ -41,7 +41,7 @@ Front-end developer enthusiast with a passion of all things web development!
 - :seedling: Currently, I am learning TypeScript, Node.js and Figma
 - :beach_umbrella: When I'm not coding, you can find me either chilling with
   video games or baking up a storm :cupcake:!
-- :envelope: You can reach me here: <hayley.mcc@gmail.com>
+- :envelope: You can reach me here: <hayley@haylzrandom.co.uk>
 
 <br>
 
@@ -82,8 +82,8 @@ Front-end developer enthusiast with a passion of all things web development!
   (Completed :heavy_check_mark:)
 - [Learn Intermediate JavaScript](https://www.codecademy.com/profiles/haylzrandom/certificates/36ae898a1d1c8524815305b2d1d2ebab)
   (Completed :heavy_check_mark:)
-- [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) (WIP
-  :yellow_circle:)
+- [Learn TypeScript](https://www.codecademy.com/profiles/haylzrandom/certificates/56fb1e71303e37b643bb1905f31c8a09)
+  (Completed :heavy_check_mark:)
 
 <!-- ZeroToMastery -->
 
