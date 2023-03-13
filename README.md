@@ -49,7 +49,9 @@ Front-end developer enthusiast with a passion of all things web development!
 
 ![HaylzRandom's GitHub stats](https://github-readme-stats.vercel.app/api?username=haylzrandom&count_private=true&hide=contribs,issues,stars&theme=material-palenight&show_icons=true)
 
-### :hammer_and_wrench: Languages and Tools
+<!-- Languages and Tools -->
+
+## :hammer_and_wrench: Languages and Tools
 
 ### :clipboard: Languages
 
@@ -141,5 +143,5 @@ Front-end developer enthusiast with a passion of all things web development!
 - [React Front to Back 2022](https://www.udemy.com/certificate/UC-603615e9-b62c-4beb-a301-cd35ca301536/)
   (Completed :heavy_check_mark:)
 
-<!-- Languages and Tools -->
+
 
