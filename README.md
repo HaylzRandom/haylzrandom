@@ -58,6 +58,7 @@ Front-end developer enthusiast with a passion of all things web development!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### :books: Frameworks
 
@@ -68,6 +69,8 @@ Front-end developer enthusiast with a passion of all things web development!
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### :hammer: Tools
 
@@ -83,6 +86,8 @@ Front-end developer enthusiast with a passion of all things web development!
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <!-- MongoDB -->
 <!-- SQL -->
@@ -122,6 +127,10 @@ Front-end developer enthusiast with a passion of all things web development!
   (Completed :heavy_check_mark:)
 - [Learn TypeScript](https://www.codecademy.com/profiles/haylzrandom/certificates/56fb1e71303e37b643bb1905f31c8a09)
   (Completed :heavy_check_mark:)
+- [Learn PHP Skill Path](https://www.codecademy.com/profiles/haylzrandom/certificates/9b7bcc38d0ed49f593228763cbfd51e3)
+  (Completed :heavy_check_mark:)
+- [Learn Intermediate PHP](https://www.codecademy.com/profiles/haylzrandom/certificates/265bef867da9492fb4bb193cc0841f99)
+  (Completed :heavy_check_mark:)
 
 <!-- ZeroToMastery -->
 
@@ -131,10 +140,6 @@ Front-end developer enthusiast with a passion of all things web development!
   (Completed :heavy_check_mark:)
 - [Complete React Developer in 2023(w/ Redux, Hooks, GraphQL): Zero to Mastery](https://drive.google.com/file/d/1mieDfkVjGMnZDb9CqHuLXZ7bKarhKmLF/view?usp=sharing)
   (Completed :heavy_check_mark:)
-- [Complete Web & Mobile Designer in 2023: UI/UX, Figma + more](https://zerotomastery.io/courses/learn-web-design/)
-  (WIP :yellow_circle:)
-- [Complete Node.js Developer in 2023: Zero to Mastery](https://zerotomastery.io/courses/learn-node-js/)
-  (WIP :yellow_circle:)
 
 <!-- Udemy -->
 
