@@ -9,20 +9,19 @@
         <!-- Website Badge -->
         <img src='https://img.shields.io/badge/haylzrandom.co.uk-6C327A?style=for-the-badge' style='grid-area:website;'>
     </a>
-    <br>
     <a href='https://www.freecodecamp.org/haylzrandom'>
-        <!-- FreeCodeCamp Badge -->
-        <img src='https://img.shields.io/badge/freeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white'>
-    </a>
-    <a href='https://www.frontendmentor.io/profile/HaylzRandom'>
-        <!-- Frontend Mentor Badge -->
-        <img src='https://img.shields.io/badge/frontend mentor-8dceda?style=for-the-badge&logo=frontendmentor&logoColor=5769ae' >
-    </a>
+            <!-- FreeCodeCamp Badge -->
+            <img src='https://img.shields.io/badge/freeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white'>
+        </a>
     <br>
-    <a href='https://www.linkedin.com/in/hayleymcc/'>
-        <!-- LinkedIn Badge -->
-        <img src='https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
-    </a>
+        <a href='https://www.frontendmentor.io/profile/HaylzRandom'>
+            <!-- Frontend Mentor Badge -->
+            <img src='https://img.shields.io/badge/frontend mentor-8dceda?style=for-the-badge&logo=frontendmentor&logoColor=5769ae' >
+        </a>
+        <a href='https://www.linkedin.com/in/hayleymcc/'>
+            <!-- LinkedIn Badge -->
+            <img src='https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
+        </a>
     <br>
     <!-- Badge for profile views -->
     <img src='https://komarev.com/ghpvc/?username=haylzrandom&color=6C327A&style=for-the-badge' >
@@ -32,7 +31,7 @@
 
 ### :woman_technologist: About Me
 
-Front-end developer enthusiast with a passion of all things web development!
+Front-end developer with a passion of all things web development!
 
 - :uk: Born in Scotland and proud of it despite not living there for 10+ years!
 - :seedling: Currently, I am learning TypeScript and Tailwind CSS
@@ -40,11 +39,11 @@ Front-end developer enthusiast with a passion of all things web development!
   video games or baking up a storm :cupcake:!
 - :envelope: You can reach me here: <hayley@haylzrandom.co.uk>
 
-<br>
+<!-- <br> -->
 
 <!-- Github Stats -->
 
-![HaylzRandom's GitHub stats](https://github-readme-stats.vercel.app/api?username=haylzrandom&count_private=true&hide=contribs,issues,stars&theme=material-palenight&show_icons=true)
+<!-- ![HaylzRandom's GitHub stats](https://github-readme-stats.vercel.app/api?username=haylzrandom&count_private=true&hide=contribs,issues,stars&theme=material-palenight&show_icons=true) -->
 
 <!-- Languages and Tools -->
 
@@ -74,6 +73,7 @@ Front-end developer enthusiast with a passion of all things web development!
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
