@@ -23,9 +23,6 @@
         <!-- LinkedIn Badge -->
         <img src='https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
     </a>
-    <a href='https://twitter.com/HaylzRandom'>
-        <img src="https://img.shields.io/badge/Twitter-1a8cd8?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <br>
     <!-- Badge for profile views -->
     <img src='https://komarev.com/ghpvc/?username=haylzrandom&color=6C327A&style=for-the-badge' >
