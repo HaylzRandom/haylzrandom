@@ -35,7 +35,8 @@
 Front-end developer enthusiast with a passion of all things web development!
 
 - :uk: Born in Scotland and proud of it despite not living there for 10+ years!
-- :seedling: Currently, I am learning TypeScript and Tailwind CSS
+- :heart: Passionate about women in STEM
+- :seedling: Currently, I am learning TypeScript, Tailwind CSS and finishing up a Software Development Boot Camp at [Northcoders](https://northcoders.com/)!
 - :beach_umbrella: When I'm not coding, you can find me either chilling with
   video games or baking up a storm :cupcake:!
 - :envelope: You can reach me here: <hayley@haylzrandom.co.uk>
@@ -74,6 +75,7 @@ Front-end developer enthusiast with a passion of all things web development!
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-white?style=for-the-badge&logo=confluence&logoColor=237ff9)
